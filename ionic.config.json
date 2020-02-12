@@ -1,5 +1,7 @@
 {
   "name": "Test Minimal Geolocation",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
